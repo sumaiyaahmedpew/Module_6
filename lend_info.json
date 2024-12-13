@@ -1,0 +1,14 @@
+[
+    {
+        "borrower_name": "sumaiya",
+        "borrower_phone": "1234567890",
+        "book_title": "book 1",
+        "due_date": "26-12-2024"
+    },
+    {
+        "borrower_name": "ahmed",
+        "borrower_phone": "9876543210",
+        "book_title": "book 2",
+        "due_date": "27-12-2024"
+    }
+]
